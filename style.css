@@ -160,3 +160,33 @@
     font-size: 12px;
     padding-top: 13px;
 }
+
+.transparent-bar {
+    border: 1px solid #66c6dc;
+    background: #66c6dc;
+    font-size: 22px;
+    padding: 9px 343px 14px 20px;
+    max-height: 50px;
+    color: #ffffff;
+}
+
+.next {
+    position: relative;
+    top: -32px;
+    right: -850px;
+}
+
+.cham {
+    position: relative;
+    top: 17px;
+    right: -630px;
+}
+
+.text {
+    /* position: relative;
+    top: 30px;
+    right: 800px; */
+    margin-left: -90px;
+    color: black;
+    text-align: left;
+}
